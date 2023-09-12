@@ -55,4 +55,8 @@ The next n is multiplied by a factor of 11. This number clearly breaks the patte
 
 2310 * 13 = 30030
 
-Upon
+Upon running the new version of our code with only n as 30030, we get a new omega of 5.21354. Thus, in order to find the answer we can simply follow the pattern we found until we find the largest n under one million.
+
+30030 * 17 = 510510
+
+The next n will be over one million, therefore the answer is 510510.
